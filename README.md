@@ -1,1 +1,2 @@
 # Facebook-clone-loka
+FACEBOOK CLONE IS AN EXCITING REACT PROJECT
